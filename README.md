@@ -1,4 +1,4 @@
-# dalla-e-clone
+![localhost_5173_create-post (3)](https://github.com/usha14-03/dalla-e-clone/assets/138875551/27e7d19a-78ae-4c6b-9e7b-4ae64cad5267)# dalla-e-clone
 
 #output
 
@@ -11,4 +11,7 @@
 ![img3](https://github.com/usha14-03/dalla-e-clone/assets/138875551/ffe442f5-c85a-4607-bba6-10154cbf940c)
 
 
-![img4](https://github.com/usha14-03/dalla-e-clone/assets/138875551/9adc9fc2-95d9-471f-9a41-ed05bfec0d2d)
+![localhost_5173_create-post (2)](https://github.com/usha14-03/dalla-e-clone/assets/138875551/270e9974-7e91-45dc-bd68-a8964c1772e5)
+
+
+![localhost_5173_create-post (3)](https://github.com/usha14-03/dalla-e-clone/assets/138875551/e8379d69-5e50-4833-a6c1-043f61755acc)
