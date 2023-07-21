@@ -1,4 +1,4 @@
-![localhost_5173_create-post (3)](https://github.com/usha14-03/dalla-e-clone/assets/138875551/27e7d19a-78ae-4c6b-9e7b-4ae64cad5267)# dalla-e-clone
+# dalla-e-clone
 
 #output
 
